@@ -1,5 +1,5 @@
-FROM ubuntu:saucy
-MAINTAINER Fernando Mayo <fernando@tutum.co>
+FROM ubuntu:trusty
+MAINTAINER TANABE Ken-ichi <nabeken@tknetworks.org>
 
 # Install packages
 RUN apt-get update
